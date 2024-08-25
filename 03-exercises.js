@@ -20,6 +20,11 @@ console.log(happiness)
 console.log(goals)
 
 // 5. Imprime por consola el tipo de todas las variables
+console.log(typeof fullName)
+console.log(typeof age)
+console.log(typeof dominican)
+console.log(typeof happiness)
+console.log(typeof goals)
 
 // 6. A continuación, modifica los valores de las variables por otros del mismo tipo
 
