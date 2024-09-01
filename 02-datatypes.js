@@ -33,3 +33,21 @@ let myBigInt = BigInt(948374908374908304983094803984039840398408039480398)
 console.log(typeof myName)
 console.log(typeof age)
 console.log(typeof isStudent)
+
+/* Operadores logicos */
+//&& => Y
+// || => o
+// ! => not
+
+const a = 10;
+const b = 20;
+const c = 20;
+
+a  == b && a ===b
+//salida => false
+
+a != b || a === c
+//salida => true
+
+!(a === c)
+//Salida  => true
